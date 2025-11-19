@@ -66,8 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
         rotate(e.target.closest('img').className);
     })
 
-
-
+    
     // card carousel
     let items = [];
     function getitems() {
